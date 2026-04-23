@@ -2,7 +2,6 @@
  * @license
  * SPDX-License-Identifier: Apache-2.0
  */
-
 import { useState, useRef, useEffect } from 'react';
 import { Send, User, Bot, Sparkles, Plus, History, Settings, Search, Menu, X, Trash2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
